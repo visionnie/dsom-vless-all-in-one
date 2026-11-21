@@ -1,0 +1,6 @@
+# 本地工作区/记忆目录，不入库
+.workbuddy/
+.DS_Store
+
+# 本地临时留存的原始副本（内容等于换牌前的 vless-server.sh）
+vless-server.fixed.sh
